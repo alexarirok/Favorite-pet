@@ -1,0 +1,14 @@
+body {
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  font-style: oblique;
+  font-family: fantasy;
+  line-height: inherit;
+}
+strong {
+  font-style: italic;
+}
+em {
+  font-style: bold;
+}
